@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebe6b962cc21de77dbb4bd66df3c9605",
+    "revision": "6efa3bd575d80ae7f3ed94cb1fc6a0be",
     "url": "/index.html"
   },
   {
-    "revision": "74c67a07defad810f197",
+    "revision": "f7896506ad5766a6ace7",
     "url": "/static/css/2.f93178fb.chunk.css"
   },
   {
-    "revision": "a5080f04204979acfed8",
-    "url": "/static/css/main.506a83a9.chunk.css"
+    "revision": "b18ac948dd8a67035e39",
+    "url": "/static/css/main.a253d963.chunk.css"
   },
   {
-    "revision": "74c67a07defad810f197",
-    "url": "/static/js/2.f3c04351.chunk.js"
+    "revision": "f7896506ad5766a6ace7",
+    "url": "/static/js/2.6c441189.chunk.js"
   },
   {
     "revision": "d044dd24e4333d0b1535284845dace26",
-    "url": "/static/js/2.f3c04351.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6c441189.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5080f04204979acfed8",
-    "url": "/static/js/main.768f8919.chunk.js"
+    "revision": "b18ac948dd8a67035e39",
+    "url": "/static/js/main.ca1177c8.chunk.js"
   },
   {
     "revision": "80546ae2a2e5194acc22",
@@ -82,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b474dcfccc8466e3f9e1aa7906e363e3",
     "url": "/static/media/blacksword-webfont.b474dcfc.woff"
-  },
-  {
-    "revision": "d71c4486cf4995af57b15f393098c2fb",
-    "url": "/static/media/block-boy.d71c4486.png"
   },
   {
     "revision": "8fc97233e6b3492c3478379668465cf4",
@@ -150,6 +146,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec763292e583294612f124c0b0def500",
     "url": "/static/media/fa-solid-900.ec763292.svg"
+  },
+  {
+    "revision": "1e34c90913747a850c8e6ade3089dbf0",
+    "url": "/static/media/fondo.1e34c909.jpg"
   },
   {
     "revision": "3ebc117e22e1d4160c6726faebaf713d",
