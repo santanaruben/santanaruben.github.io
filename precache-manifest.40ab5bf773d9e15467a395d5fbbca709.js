@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ef8174e9785fa10dd554faa00f7342d",
+    "revision": "0853237f0cdce0785df9c5807fc13e06",
     "url": "/index.html"
   },
   {
-    "revision": "c55db93a827b4ce6834f",
+    "revision": "db02a0280f314b4d9e5c",
     "url": "/static/css/2.f93178fb.chunk.css"
   },
   {
-    "revision": "d57c71c0b3d75f949b3d",
-    "url": "/static/css/main.b1afaf79.chunk.css"
+    "revision": "82e7d17cc90c4834a7fd",
+    "url": "/static/css/main.1373e746.chunk.css"
   },
   {
-    "revision": "c55db93a827b4ce6834f",
-    "url": "/static/js/2.2a5a4543.chunk.js"
+    "revision": "db02a0280f314b4d9e5c",
+    "url": "/static/js/2.c17c3ea3.chunk.js"
   },
   {
     "revision": "d044dd24e4333d0b1535284845dace26",
-    "url": "/static/js/2.2a5a4543.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c17c3ea3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d57c71c0b3d75f949b3d",
-    "url": "/static/js/main.8cb6f192.chunk.js"
+    "revision": "82e7d17cc90c4834a7fd",
+    "url": "/static/js/main.90d07ee6.chunk.js"
   },
   {
     "revision": "80546ae2a2e5194acc22",
@@ -58,6 +58,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c9a5fc4879971eb3bf9e4a0717556bf8",
     "url": "/static/media/Italic-Bricks.c9a5fc48.woff2"
+  },
+  {
+    "revision": "13e4dda6196c1c44bfc2ed7e3150f15a",
+    "url": "/static/media/Montserrat-Thin.13e4dda6.woff2"
+  },
+  {
+    "revision": "7269af3dc4932f393fdd6190a0d6b802",
+    "url": "/static/media/Montserrat-Thin.7269af3d.woff"
   },
   {
     "revision": "6420c77f158949aff68a25d93934c79c",
