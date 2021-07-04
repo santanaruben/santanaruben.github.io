@@ -1,24 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.9c491909.chunk.css",
-<<<<<<< Updated upstream
-    "main.js": "/static/js/main.93dc3fcc.chunk.js",
-    "main.js.map": "/static/js/main.93dc3fcc.chunk.js.map",
-=======
     "main.js": "/static/js/main.abb47910.chunk.js",
     "main.js.map": "/static/js/main.abb47910.chunk.js.map",
->>>>>>> Stashed changes
     "runtime-main.js": "/static/js/runtime-main.c832ae5e.js",
     "runtime-main.js.map": "/static/js/runtime-main.c832ae5e.js.map",
     "static/css/2.f93178fb.chunk.css": "/static/css/2.f93178fb.chunk.css",
     "static/js/2.c17c3ea3.chunk.js": "/static/js/2.c17c3ea3.chunk.js",
     "static/js/2.c17c3ea3.chunk.js.map": "/static/js/2.c17c3ea3.chunk.js.map",
     "index.html": "/index.html",
-<<<<<<< Updated upstream
-    "precache-manifest.45eb643dce5c4c34d623aa806310f44a.js": "/precache-manifest.45eb643dce5c4c34d623aa806310f44a.js",
-=======
     "precache-manifest.b7fd6cfd59850769eb33188ad0246337.js": "/precache-manifest.b7fd6cfd59850769eb33188ad0246337.js",
->>>>>>> Stashed changes
     "service-worker.js": "/service-worker.js",
     "static/css/2.f93178fb.chunk.css.map": "/static/css/2.f93178fb.chunk.css.map",
     "static/css/main.9c491909.chunk.css.map": "/static/css/main.9c491909.chunk.css.map",
@@ -32,10 +23,6 @@
     "static/css/2.f93178fb.chunk.css",
     "static/js/2.c17c3ea3.chunk.js",
     "static/css/main.9c491909.chunk.css",
-<<<<<<< Updated upstream
-    "static/js/main.93dc3fcc.chunk.js"
-=======
     "static/js/main.abb47910.chunk.js"
->>>>>>> Stashed changes
   ]
 }
